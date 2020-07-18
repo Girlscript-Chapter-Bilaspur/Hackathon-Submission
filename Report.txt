@@ -1,0 +1,6 @@
+######## Hackathon-Submission-Report- ########
+
+- Till now i have created toggle navbar and a beautiful webpage for my restaurent project.
+- My Toggle navbar is not working yet but i will make sure it will work perfectly in the next checkpoint.
+- I have done a lot of styling like hover effect, using border and all with the help of CSS.
+- i have used one pic as a background and that pic was random not taken from any site, present in my wallpaper collection.    
